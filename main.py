@@ -9,4 +9,8 @@ import sys
 
 print("wash your hands")
 print("do not go to class")
+
+print("____")
+
 print("avoid people")
+
