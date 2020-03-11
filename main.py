@@ -8,3 +8,4 @@ from scipy import integrate
 import sys
 
 print("wash your hands")
+print("do not go to class")
